@@ -25,9 +25,9 @@
 	</scm>
 
 	<dependencies>
-	    
-	    <!-- OkHttp -->
-	    
+		
+		<!-- OkHttp -->
+		
 		<dependency>
 			<groupId>com.squareup.okhttp</groupId>
 			<artifactId>mockwebserver</artifactId>
@@ -42,7 +42,7 @@
 			<version>17.0</version>
 		</dependency>
 
-	    <!-- JUnit -->
+		<!-- JUnit -->
 	
 		<dependency>
 			<groupId>junit</groupId>

@@ -16,10 +16,10 @@
 	<name>Black Pepper Support OkHttp Test</name>
 
 	<scm>
-		<connection>scm:git:git@codebasehq.com:blackpepper/black-pepper-support/bp-support-okhttp-test.git</connection>
-		<developerConnection>scm:git:git@codebasehq.com:blackpepper/black-pepper-support/bp-support-okhttp-test.git</developerConnection>
+		<connection>scm:git:git@github.com:BlackPepperSoftware/bp-support-okhttp-test.git</connection>
+		<developerConnection>scm:git:git@github.com:BlackPepperSoftware/bp-support-okhttp-test.git</developerConnection>
 		<tag>HEAD</tag>
-		<url>https://blackpepper.codebasehq.com/projects/black-pepper-support/repositories/bp-support-okhttp-test</url>
+		<url>https://github.com/BlackPepperSoftware/bp-support-okhttp-test</url>
 	</scm>
 
 	<dependencies>
